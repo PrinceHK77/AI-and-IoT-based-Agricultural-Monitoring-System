@@ -35,7 +35,8 @@ A user-friendly web application where farmers can upload images of diseased plan
 - Detailed remedy and cause explanations
 - Fast, mobile-friendly UI built using Streamlit
 
-![Uploading Screenshot 2024-04-20 174524.png…]()
+![1713601928795](https://github.com/user-attachments/assets/a9fe9f82-369d-4338-80b0-11ef8d5ade04)
+
 ## 🌾 2. Agricultural Monitoring System (IoT)
 
 A sensor-driven smart farming system that automates irrigation, detects fire/gas presence, and adapts watering logic based on weather models.
